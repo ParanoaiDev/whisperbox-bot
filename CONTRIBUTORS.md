@@ -8,9 +8,9 @@
 
 | Контрибьютор | Роль | Ссылки |
 | :--- | :--- | :--- |
-| **Rovel Labs** | Организация, архитектура & приватность | [rovel-labs.fourtopaph.workers.dev](https://rovel-labs.fourtopaph.workers.dev/) • [@RovelLabs](https://github.com/RovelLabs) |
-| **WhisperBox Core Team** | Telegram Bot Logic, Aiogram 3 & Storage Engine | [@RovelLabs](https://github.com/RovelLabs) |
-| **Community Contributors** | Тестирование, баг-репорты, документация | [GitHub Contributors](https://github.com/RovelLabs/whisperbox-bot/graphs/contributors) |
+| **Rovel Labs** | Организация, архитектура & приватность | [rovel-labs.fourtopaph.workers.dev](https://rovel-labs.fourtopaph.workers.dev/) • [@RovelLabs](https://github.com/ParanoaiDev) |
+| **WhisperBox Core Team** | Telegram Bot Logic, Aiogram 3 & Storage Engine | [@RovelLabs](https://github.com/ParanoaiDev) |
+| **Community Contributors** | Тестирование, баг-репорты, документация | [GitHub Contributors](https://github.com/ParanoaiDev/whisperbox-bot/graphs/contributors) |
 
 ---
 

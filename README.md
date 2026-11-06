@@ -63,7 +63,7 @@ sequenceDiagram
 1. Установите **[Python 3.10+](https://www.python.org/downloads/)** (при установке обязательно поставьте галочку `Add Python to PATH`).
 2. Склонируйте или скачайте репозиторий:
    ```bash
-   git clone https://github.com/RovelLabs/whisperbox-bot.git
+   git clone https://github.com/ParanoaiDev/whisperbox-bot.git
    cd whisperbox-bot
    ```
 3. Скопируйте файл `.env.example` в `.env`:
@@ -83,7 +83,7 @@ sequenceDiagram
 
 ```bash
 # 1. Склонируйте репозиторий и перейдите в папку
-git clone https://github.com/RovelLabs/whisperbox-bot.git
+git clone https://github.com/ParanoaiDev/whisperbox-bot.git
 cd whisperbox-bot
 
 # 2. Создайте файл окружения .env
@@ -100,7 +100,7 @@ docker compose up -d --build
 
 В репозиторий уже встроен файл конфигурации `railway.toml`:
 1. Зарегистрируйтесь на [Railway.app](https://railway.app/).
-2. Создайте новый проект из GitHub-репозитория: `RovelLabs/whisperbox-bot`.
+2. Создайте новый проект из GitHub-репозитория: `ParanoaiDev/whisperbox-bot`.
 3. Во вкладке **Variables** добавьте переменные:
    - `BOT_TOKEN`: токен бота от BotFather
    - `OWNER_ID`: ваш Telegram ID
@@ -112,7 +112,7 @@ docker compose up -d --build
 
 ```bash
 # Клонирование
-git clone https://github.com/RovelLabs/whisperbox-bot.git /opt/whisperbox-bot
+git clone https://github.com/ParanoaiDev/whisperbox-bot.git /opt/whisperbox-bot
 cd /opt/whisperbox-bot
 
 # Окружение
@@ -160,9 +160,9 @@ python3 bot.py
 
 - **Архитектура & Продукт:** [Rovel Labs](https://rovel-labs.fourtopaph.workers.dev/)
 - **Core Engine & Routing:** aiogram 3 async router engine
-- **Open-Source Maintainers:** [@RovelLabs](https://github.com/RovelLabs)
+- **Open-Source Maintainers:** [@RovelLabs](https://github.com/ParanoaiDev)
 
-Если у вас есть идеи по улучшению — создавайте [Pull Request](https://github.com/RovelLabs/whisperbox-bot/pulls) или открывайте [Issue](https://github.com/RovelLabs/whisperbox-bot/issues).
+Если у вас есть идеи по улучшению — создавайте [Pull Request](https://github.com/ParanoaiDev/whisperbox-bot/pulls) или открывайте [Issue](https://github.com/ParanoaiDev/whisperbox-bot/issues).
 
 ---
 
